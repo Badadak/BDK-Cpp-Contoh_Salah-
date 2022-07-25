@@ -1,2 +1,2 @@
-# BDK-C++
-Semua projek dan file pembelajaran yang menggunakan C++ ada di sini
+# BDK-Project C++
+Semua projek yang menggunakan C++ ada di sini
